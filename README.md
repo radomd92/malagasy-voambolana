@@ -1,4 +1,4 @@
-# Voambolana Malagasy Ho An'Ny "Programmation"
+# Voambolana Malagasy Ho An'Ny Fanoratana Rindranmbaiko
 
 Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
 
@@ -19,7 +19,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>bool</td>
-      <td></td>
+      <td>roasanda</td>
     </tr>
     <tr>
       <td>byte</td>
@@ -35,7 +35,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>char</td>
-      <td></td>
+      <td>singantsoratra</td>
     </tr>
     <tr>
       <td>class</td>
@@ -43,7 +43,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>const</td>
-      <td></td>
+      <td>maharitra</td>
     </tr>
     <tr>
       <td>continue</td>
@@ -51,7 +51,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>default</td>
-      <td></td>
+      <td>rahatsymisy</td>
     </tr>
     <tr>
       <td>del</td>
@@ -63,7 +63,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>double</td>
-      <td></td>
+      <td>lanjandroa</td>
     </tr>
     <tr>
       <td>else</td>
@@ -71,7 +71,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>enum</td>
-      <td></td>
+      <td>fitanisanisana</td>
     </tr>
     <tr>
       <td>extends</td>
@@ -103,7 +103,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>implements</td>
-      <td>mampiatra</td>
+      <td>mampihatra</td>
     </tr>
     <tr>
       <td>import</td>
@@ -111,7 +111,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>in</td>
-      <td>aoaminy</td>
+      <td>anaty</td>
     </tr>
     <tr>
       <td>instanceof</td>
@@ -119,7 +119,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>int</td>
-      <td></td>
+      <td>tsimivaky</td>
     </tr>
     <tr>
       <td>interface</td>
@@ -131,7 +131,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>long</td>
-      <td></td>
+      <td>lava</td>
     </tr>
     <tr>
       <td>new</td>
@@ -139,7 +139,19 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>null</td>
-      <td></td>
+      <td>foana</td>
+    </tr>
+    <tr>
+      <td>public</td>
+      <td>fantandrehetra</td>
+    </tr>
+    <tr>
+      <td>private</td>
+      <td>miafina</td>
+    </tr>
+     <tr>
+      <td>protected</td>
+      <td>voaaro</td>
     </tr>
     <tr>
       <td>return</td>
@@ -147,7 +159,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>short</td>
-      <td></td>
+      <td>fohy</td>
     </tr>
     <tr>
       <td>sizeof</td>
@@ -155,15 +167,15 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>static</td>
-      <td>tsymiova</td>
+      <td>tsimiova</td>
     </tr>
     <tr>
       <td>struct</td>
-      <td></td>
+      <td>rafitra</td>
     </tr>
     <tr>
       <td>switch</td>
-      <td></td>
+      <td>safidy</td>
     </tr>
     <tr>
       <td>this</td>
@@ -195,7 +207,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
     </tr>
     <tr>
       <td>yield</td>
-      <td>avoay</td>
+      <td>avoahay</td>
     </tr>
   </tbody>
 </table>
